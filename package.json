@@ -1,0 +1,6 @@
+{
+    "version": "0.01",
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
