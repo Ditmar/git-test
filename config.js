@@ -1,3 +1,3 @@
-const random = () => {
-    return Math.random() * 100;
+const getRandomInteger = () => {
+    return Math.max(0, Math.random() * 100);
 }
