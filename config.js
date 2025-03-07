@@ -1,3 +1,3 @@
 const random = () => {
-    return Math.random();
+    return Math.random() * 100;
 }
